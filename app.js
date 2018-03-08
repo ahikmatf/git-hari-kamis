@@ -1,2 +1,1 @@
-console.log("aku fitur-1")
-console.log("ninggalin jejak")
+console.log("aku fitur-1-2-2-2-2-2")
